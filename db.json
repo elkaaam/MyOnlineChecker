@@ -1,5 +1,5 @@
 {
-  "apps: [
+  "apps": [
     { "name": "ir.ghasedapp", "status": 0 },
   ],
   "posts": [
