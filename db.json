@@ -1,7 +1,7 @@
 {
   "apps": [
     { "name": "ir.ghasedapp", "status": 0 },
-    { "name": "com.elkaaam.mytestapp", "status": 3 }
+    { "name": "com.elkaaam.mytestapp", "status": 0 }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
